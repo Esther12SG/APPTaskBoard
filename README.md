@@ -1,7 +1,11 @@
 SEGUNDA EVALUACIÓN PARCIAL
+
 Programación Web
+
 Ingeniero Brandon Chitay
+
 Reyna Esther Sierra Garcia
+
 202404027
 
 
@@ -43,5 +47,8 @@ Funcionamiento de la Aplicación(TaskBoard)
 
 7.  Diseño visual personalizado
 
+
+
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/0cbc1c7c-4bcb-4dec-96ec-bba709686dc7" />
+
 
